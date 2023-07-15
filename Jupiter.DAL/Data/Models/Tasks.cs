@@ -1,4 +1,4 @@
-﻿namespace Jupiter.APIs.Data.Models
+﻿namespace Jupiter.DAL
 {
     public class Tasks
     {

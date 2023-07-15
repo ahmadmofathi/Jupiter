@@ -1,7 +1,7 @@
-﻿using Jupiter.APIs.Data.Models;
+﻿using Jupiter.DAL;
 using Microsoft.EntityFrameworkCore;
 
-namespace Jupiter.Data.Context
+namespace Jupiter.DAL
 {
     public class SystemContext :DbContext
     {

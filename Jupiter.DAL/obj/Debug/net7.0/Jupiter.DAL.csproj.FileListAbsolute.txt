@@ -1,0 +1,14 @@
+C:\Users\ahmad\source\repos\Jupiter.DAL\bin\Debug\net7.0\Jupiter.DAL.deps.json
+C:\Users\ahmad\source\repos\Jupiter.DAL\bin\Debug\net7.0\Jupiter.DAL.runtimeconfig.json
+C:\Users\ahmad\source\repos\Jupiter.DAL\bin\Debug\net7.0\Jupiter.DAL.dll
+C:\Users\ahmad\source\repos\Jupiter.DAL\bin\Debug\net7.0\Jupiter.DAL.pdb
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.dll
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\refint\Jupiter.DAL.dll
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.pdb
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\Jupiter.DAL.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\Jupiter.DAL\obj\Debug\net7.0\ref\Jupiter.DAL.dll
