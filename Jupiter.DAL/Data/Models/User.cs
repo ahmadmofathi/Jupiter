@@ -1,7 +1,7 @@
 ﻿using System.Reflection.Emit;
 using System.Security.Cryptography.Xml;
 
-namespace Jupiter.APIs.Data.Models
+namespace Jupiter.DAL
 {
     public class User
     {

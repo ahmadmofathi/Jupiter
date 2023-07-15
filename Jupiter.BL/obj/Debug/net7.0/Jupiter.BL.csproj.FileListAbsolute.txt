@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\Jupiter.BL\bin\Debug\net7.0\Jupiter.BL.deps.json
+C:\Users\ahmad\source\repos\Jupiter.BL\bin\Debug\net7.0\Jupiter.BL.dll
+C:\Users\ahmad\source\repos\Jupiter.BL\bin\Debug\net7.0\Jupiter.BL.pdb
+C:\Users\ahmad\source\repos\Jupiter.BL\bin\Debug\net7.0\Jupiter.DAL.dll
+C:\Users\ahmad\source\repos\Jupiter.BL\bin\Debug\net7.0\Jupiter.DAL.pdb
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.csproj.CopyComplete
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.dll
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\refint\Jupiter.BL.dll
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\Jupiter.BL.pdb
+C:\Users\ahmad\source\repos\Jupiter.BL\obj\Debug\net7.0\ref\Jupiter.BL.dll
